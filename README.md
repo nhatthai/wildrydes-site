@@ -10,10 +10,10 @@ You 'll create a simple serverless web application that enables users to request
 
 ### Modules
 This workshop is divided into five modules. Each module describes a scenario of what we're going to build and step-by-step directions to help you implement the architecture and verify your work.
-    + Static Web Hosting
-    + User Management
-    + Serverless Backend
-    + RESTful APIs
++ Static Web Hosting
++ User Management
++ Serverless Backend
++ RESTful APIs
 
 ### Usage
 + Update config services into js/config.js
